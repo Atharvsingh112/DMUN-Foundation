@@ -19,7 +19,7 @@ const DonatePageContainer = styled.div`
 
 const PageTitle = styled.h1`
   font-family: var(--andover-font-serif);
-  font-size: 3.5rem;
+  font-size: 3.6rem;
   text-align: center;
   margin-bottom: 3rem;
 
