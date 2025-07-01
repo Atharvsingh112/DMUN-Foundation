@@ -239,8 +239,16 @@ const PublicationDate = styled.p`
 // Sample data for Statements and Reports
 const statements = 
     [
+      {
+        id: 's1',
+        image: null, // or a relevant image if you have one
+        title: 'Intervention H.E. Mr. Jaewon Choi Executive Director DMUN Foundation',
+        summary: 'High-Level Opening Plenary Global Youth COnference on Financing for Development',
+        date: '28th June, 2025',
+        link: '/Statement11.pdf', // This will serve the PDF from the public directory
+      },
         {
-          id: 's1',
+          id: 's2',
           image: null,
           title: 'MSP3: Investments in reducing risk and building resilience to accelerate progress in sustainable development',
           summary: 'A statement on investing in risk reduction and resilience to accelerate sustainable development progress.',
@@ -248,7 +256,7 @@ const statements =
           link: 'https://globalplatform.undrr.org/publication/msp3-investments-reducing-risk-and-building-resilience-accelerate-progress-3',
         },
         {
-          id: 's2',
+          id: 's3',
           image: null,
           title: 'Joint Written Statement on Technical Assistance and International Cooperation 3',
           summary: '25 years after the adoption of the UNTOC: an assessment of the impact and added value of the Convention in the prevention of and fight against transnational organized crime, including through collaboration with civil societ',
@@ -256,7 +264,7 @@ const statements =
           link: 'https://www.unodc.org/documents/organized-crime/constructive-dialogues/IC_TA_2025/Statements/DMUN_Foundation_4_prevention.pdf',
         },
         {
-          id: 's3',
+          id: 's4',
           image: null,
           title: 'Joint Written Statement on Technical Assistance and International Cooperation 2',
           summary: 'Intervention on the Exchange of good practices in international cooperation to freeze and confiscate proceeds of crime in the form of virtual currencies.',
@@ -272,7 +280,7 @@ const statements =
           link: 'https://www.unodc.org/documents/organized-crime/constructive-dialogues/IC_TA_2025/Statements/DMUN_Foundation_2_prevention.pdf',
         },
         {
-          id: 's5',
+          id: 's6',
           image: null,
           title: 'Joint Constructive Dialogue on the UNTOC Review Process',
           summary: 'A statement emphasizing the urgent need to center youth and community engagement in the UNTOC review process, with recommendations to institutionalize youth participation.',
@@ -280,7 +288,7 @@ const statements =
           link: 'https://www.unodc.org/documents/organized-crime/constructive-dialogues/IC_TA_2025/Statements/DMUN_Foundation_1.pdf',
         },
         {
-          id: 's6',
+          id: 's7',
           image: null,
           title: 'Statement to the 2025 UN Firearms Protocol Constructive Dialogue',
           summary: 'Highlighting the critical need for youth participation in implementing the UN Firearms Protocol, particularly concerning gender-based armed violence and young victims.',
@@ -288,7 +296,7 @@ const statements =
           link: 'https://www.unodc.org/documents/organized-crime/constructive-dialogues/FA_2025/Statements/DMUN_Foundation.pdf',
         },
         {
-          id: 's7',
+          id: 's8',
           image: null,
           title: 'Statement to the Candidate for President of the 80th UN General Assembly',
           summary: 'A joint question on behalf of seven youth-led organizations, asking the candidate for President of the 80th UNGA how they will ensure genuine youth participation beyond tokenization.',
@@ -296,7 +304,7 @@ const statements =
           link: 'https://estatements.unmeetings.org/estatements/10.0010/20250515100000000/p_PMmovcqn/eDpSL_pnlhhEC_nyc_en.pdf',
         },
         {
-          id: 's8',
+          id: 's9',
           image: null,
           title: 'Written Statement to the 29th Conference of States Parties (CSP29)',
           summary: 'Engaging the Next Generation and Youth Stakeholders: Ensuring a Future Without Chemical Weapons for the Next Generation.',
@@ -304,7 +312,7 @@ const statements =
           link: 'https://www.opcw.org/sites/default/files/documents/2024/11/Written%20Statement%20of%20the%20DMUN%20Foundation%20to%20the%2029th%20Conference%20of%20States%20Parties%20%28CSP29%29%20of%20the%20Organisation%20for%20the%20Prohibition%20of%20Chemical%20Weapons%20.pdf',
         },
         {
-          id: 's9',
+          id: 's10',
           image: null,
           title: 'Inputs for the Elements Paper on Financing for Development',
           summary: 'Submitted by DMUN Foundation, an specially accredited organization to the Fourth International Conference on Financing for Developmentt',
@@ -312,7 +320,7 @@ const statements =
           link: 'https://financing.desa.un.org/sites/default/files/2024-10/DMUN_Input%20for%20the%20Elements%20Paper%20on%20Financing%20for%20Development.pdf',
         },
         {
-          id: 's10',
+          id: 's11',
           image: null,
           title: 'Joint Submission to the Committee on Economic, Social and Cultural Rights (CESCR)',
           summary: 'A joint written submission by the DMUN Foundation to the UN Committee on Economic, Social and Cultural Rights.',
