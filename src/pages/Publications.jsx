@@ -358,7 +358,14 @@ const reports = [
     title: 'Establishing a Youth Engagement Platform at the World Bank-IMF: A Policy Proposal for Structured Youth-Civil Society Participation',
     summary: 'The proposal suggests creating a Youth Engagement Platform at the World Bank to integrate young leaders from civil society organizations, experts in global development, and academics into policy conversations.',
     link: 'https://docs.google.com/document/d/1BH7VuT8b2sENV0iek04cSVAHWRe4gKilurU_2RI1tiA/edit?tab=t.0',
-  }
+  },
+  {
+    id: 'r5',
+    title: 'DMUN DELEGATE REPORT – UN OCEAN CONFERENCE, NICE 2025 BY SISAY LUKAS',
+    summary: 'UN Ocean Conference, Nice 2025',
+    link: '/Report5.pdf',
+  },
+  
 ];
 
 const Publications = () => {
