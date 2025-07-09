@@ -240,6 +240,14 @@ const PublicationDate = styled.p`
 const statements = 
     [
       {
+        id: 's0',
+        image: null,
+        title: 'Joint Statement of Youth for Privacy and the DMUN Foundation for the Eleventh Session of the Open-Ended Working Group on ICTs',
+        summary: 'The final report, and the forthcoming permanent mechanism, represent a significant milestone in multilaeral cooperation on ICT security. We commend the recognition of cross-cutting issues like capacity-building, inclusivity,...',
+        date: 'J July, 2025',
+        link: 'https://docs-library.unoda.org/Open-Ended_Working_Group_on_Information_and_Communication_Technologies_-_(2021)/YfP_and_DMUN_-_Joint_Statement_-_Eleventh_OEWG.pdf',
+      },
+      {
         id: 's1',
         image: null, // or a relevant image if you have one
         title: 'Intervention H.E. Mr. Jaewon Choi Executive Director DMUN Foundation',
