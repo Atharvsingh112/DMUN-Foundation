@@ -240,6 +240,14 @@ const PublicationDate = styled.p`
 const statements = 
     [
       {
+        id: 's-4',
+        image: null,
+        title: 'Intervention 2025 Sustainability Forum DMUN Foundation Jaewon Choi Executive Director DMUN Foundation CHECK AGAINST DELIVERY SEUL LE TEXTE PRONONCÉ FAIT FOI',
+        summary: 'Intervention 2025 Sustainability Forum DMUN Foundation Jaewon Choi Executive Director DMUN Foundation CHECK AGAINST DELIVERY SEUL LE TEXTE PRONONCÉ FAIT FOI',
+        date: '12th July, 2025',
+        link: '/Statement-4.pdf',
+      },
+      {
         id: 's-3',
         image: null,
         title: 'Joint civil society and trade unions submission regarding the Draft Issue Note of Workstream I of the Intergovernmental Negotiating Committee on the UN Framework Convention on International Tax Cooperation.',
