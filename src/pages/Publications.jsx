@@ -240,6 +240,30 @@ const PublicationDate = styled.p`
 const statements = 
     [
       {
+        id: 's-3',
+        image: null,
+        title: 'Joint civil society and trade unions submission regarding the Draft Issue Note of Workstream I of the Intergovernmental Negotiating Committee on the UN Framework Convention on International Tax Cooperation.',
+        summary: 'A joint submission addressing the Draft Issue Note of Workstream I of the Intergovernmental Negotiating Committee on the UN Framework Convention on International Tax Cooperation.',
+        date: '11th July, 2025',
+        link: '/Statement-3.pdf',
+      },
+      {
+        id: 's-2',
+        image: null,
+        title: 'Joint civil society and trade unions submission regarding the Draft Issue Note of Workstream II (Taxation of income derived from the provision of cross-border services in an increasingly digitalized and globalized economy) of the Intergovernmental Negotiating Committee on the UN Framework Convention on International Tax Cooperation.',
+        summary: 'A joint submission addressing the Draft Issue Note of Workstream II regarding taxation of income derived from cross-border services in a digitalized and globalized economy.',
+        date: '11th July, 2025',
+        link: '/Statement-2.pdf',
+      },
+      {
+        id: 's-1',
+        image: null,
+        title: 'Joint civil society and trade unions submission regarding the Draft Outline of Issues Overview and Scope of Workstream III (Prevention and resolution of tax disputes) of the Intergovernmental Negotiating Committee on the UN Framework Convention on International Tax Cooperation.',
+        summary: 'A joint submission addressing the Draft Outline of Issues Overview and Scope of Workstream III regarding prevention and resolution of tax disputes.',
+        date: '11th July, 2025',
+        link: '/Statement-1.pdf',
+      },
+      {
         id: 's0',
         image: null,
         title: 'Joint Statement of Youth for Privacy and the DMUN Foundation for the Eleventh Session of the Open-Ended Working Group on ICTs',
