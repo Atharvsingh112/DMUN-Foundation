@@ -671,14 +671,13 @@ Through dedication and a commitment to ​inclusivity, our organization quickly 
               <LeaderLink href="https://www.linkedin.com/in/atharv-singh-b21159369/">Learn More</LeaderLink>
             </LeadershipCard>
             <LeadershipCard>
-            <LeaderImg style={{ backgroundImage: 'url("/jacob-picture.jpg")' }} $isColor={true}/>
-              <LeaderName>Jacob Greene</LeaderName>
-              <LeaderRole>Special Envoy on Organizational
-              Reformation</LeaderRole>
+            <LeaderImg style={{ backgroundImage: 'url("/lily-picture.png")' }} $isColor={true}/>
+              <LeaderName>Lily Yang Liu</LeaderName>
+              <LeaderRole>Deputy Executive Director</LeaderRole>
               <LeaderDesc>
-              Jacob focuses on improving internal structures and leading reform efforts to build a stronger organization.
+              Lily Y. YangLiu is the Deputy Executive Director of the DMUN Foundation, overseeing internal operations and strategic program coordination.
               </LeaderDesc>
-              <LeaderLink href="https://www.linkedin.com/in/jacob-greene-822687268/">Learn More</LeaderLink>
+              <LeaderLink href="https://www.linkedin.com/in/lily-yangliu-9b7471262/">Learn More</LeaderLink>
             </LeadershipCard>
            
           </LeadershipCardsRow>
